@@ -30,9 +30,13 @@
 
 [![open-source-models-hugging-face](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=https://github.com/gmars1/open-source-models-hugging-face&show_owner=true)](https://github.com/gmars1/open-source-models-hugging-face)
 
-## just4fun:
+
+## etc:
+### just4fun:
 [![js__orel_reshka_map](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=https://github.com/gmars1/gmars1.github.io&show_owner=true)](https://github.com/gmars1/gmars1.github.io)
 
+
+## ent
 
 
 
