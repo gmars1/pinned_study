@@ -15,7 +15,7 @@
 [![цк](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=Movie_Recommender)](https://github.com/gmars1/Movie_Recommender)
 
 ### tbank:
-[![1s](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=tbank__ab2024__1s)](https://github.com/gmars1/tbank__ab2024__1s) <br>
+<!--[![1s](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=tbank__ab2024__1s)](https://github.com/gmars1/tbank__ab2024__1s) <br> -->
 [![2s](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=tbank__ab2024__2s)](https://github.com/gmars1/tbank__ab2024__2s)
 
 
