@@ -1,9 +1,4 @@
-# pinned_repositories
-
-## tools:
-
-
-## projects:
+# pinned_study
 
 
 ## study:
@@ -29,15 +24,6 @@
 ### deeplearning.ai:
 
 [![open-source-models-hugging-face](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=open-source-models-hugging-face)](https://github.com/gmars1/open-source-models-hugging-face)
-
-
-## etc:
-### just4fun:
-[![js__orel_reshka_map](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=gmars1.github.io)](https://github.com/gmars1/gmars1.github.io)
-
-
-## ent
-
 
 
 
