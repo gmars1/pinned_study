@@ -22,10 +22,13 @@
 
 ---
 
+<!--
+
 ### deeplearning.ai:
 
 [![open-source-models-hugging-face](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=open-source-models-hugging-face)](https://github.com/gmars1/open-source-models-hugging-face)
 
+-->
 
 
 
