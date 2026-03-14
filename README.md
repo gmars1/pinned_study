@@ -3,6 +3,7 @@
 
 ## study:
 ### itis:
+[![основы информационного поиска](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=itis2022_4c_2s__oip)](https://github.com/gmars1/itis2022_4c_2s__oip) <br>
 [![распределенные вычисления](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=itis2022_4c_1s__raspr_vich)](https://github.com/gmars1/itis2022_4c_1s__raspr_vich) <br>
 [![технологии ии](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=itis2022_4c_1s__ii)](https://github.com/gmars1/itis2022_4c_1s__ii) <br>
 <!--[![erlang](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=itis2022_4c_1s__erlang)](https://github.com/gmars1/itis2022_4c_1s__erlang)
