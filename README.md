@@ -3,9 +3,9 @@
 
 ## study:
 ### itis:
-[![основы информационного поиска](https://stats-host-gpp6l9iuq-ft547s-projects.vercel.app/api/pin/?username=gmars1&repo=itis2022_4c_2s__oip)](https://github.com/gmars1/itis2022_4c_2s__oip) <br>
-[![распределенные вычисления](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=itis2022_4c_1s__raspr_vich)](https://github.com/gmars1/itis2022_4c_1s__raspr_vich) <br>
-[![технологии ии](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=itis2022_4c_1s__ii)](https://github.com/gmars1/itis2022_4c_1s__ii) <br>
+[![основы информационного поиска](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=itis2022_4c_2s__oip)](https://github.com/gmars1/itis2022_4c_2s__oip) <br>
+[![распределенные вычисления](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=itis2022_4c_1s__raspr_vich)](https://github.com/gmars1/itis2022_4c_1s__raspr_vich) <br>
+[![технологии ии](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=itis2022_4c_1s__ii)](https://github.com/gmars1/itis2022_4c_1s__ii) <br>
 <!--[![erlang](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=itis2022_4c_1s__erlang)](https://github.com/gmars1/itis2022_4c_1s__erlang)
 
 [![тесты](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=itis_2022_3c_2s_tests)](https://github.com/gmars1/itis_2022_3c_2s_tests) -->
